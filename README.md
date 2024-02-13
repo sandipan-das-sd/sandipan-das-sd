@@ -2,7 +2,7 @@
 
 I'm Sandipan Das, a B.Tech CSE student at FIEM with a passion for web development (MERN stack), algorithms, and Python. I thrive on problem-solving and core software development.
 
-🚀 Co-founder of PYQ Platform, an EdTech startup revolutionizing education. Currently exploring AI and ML to add another layer to my tech journey.
+Currently exploring AI and ML to add another layer to my tech journey.
 
 ## Tech Stack
 
