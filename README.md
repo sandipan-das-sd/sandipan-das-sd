@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Learning Manegment System and Employee Manegment System**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-psi-woad12.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sandipandas.blog)
 
 - 💬 Ask me about **MERN STACK,React Native Expo**
 
