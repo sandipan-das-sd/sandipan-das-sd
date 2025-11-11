@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Developer at Capsitech**
+- 🔭 I’m currently Looking for  on **Full Stack Developer role**
 - 🔭 I’m currently working on **MERN Teaching assistance at Apna College**
 - - 🔭 I Have worked AS a Full Stack Developer worked  on **STUDYBLOOM 24 LLP**
   - - - 🔭 I Have worked AS a Full Stack Developer worked  on **Upwork and Fiver**
