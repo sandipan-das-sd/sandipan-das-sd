@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary (Recruiter Focused)
+## 👨‍💻 Professional Summary
 
 🚀 **Full Stack MERN Developer** with hands-on experience in building **scalable web applications, REST APIs, authentication systems, dashboards, and cloud deployments**.  
 💡 Strong backend focus with growing expertise in **DevOps, Docker, AWS, and system design**.  
