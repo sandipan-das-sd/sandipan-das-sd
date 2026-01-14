@@ -1,141 +1,118 @@
 <h1 align="center">Hi 👋, I'm Sandipan Das</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Backend+%26+API+Specialist;DevOps+%7C+Docker+%7C+AWS+Learner;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Backend+%26+API+Specialist;DevOps+%7C+Docker+%7C+AWS+Learner;Open+to+Full+Stack+%26+Backend+Roles" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandipan-das-sd&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandipan-das-sd&theme=onedark&row=1&margin-w=15" />
+</p>
+
 ---
 
 ## 👨‍💻 Professional Summary
 
-🚀 **Full Stack MERN Developer** with hands-on experience in building **scalable web applications, REST APIs, authentication systems, dashboards, and cloud deployments**.  
-💡 Strong backend focus with growing expertise in **DevOps, Docker, AWS, and system design**.  
-🎯 Actively seeking **Full Stack / Backend / MERN Developer roles**.
+🚀 **Full Stack MERN Developer** with real-world experience in building **scalable web apps, REST APIs, dashboards, authentication systems, and cloud deployments**.  
+🧠 Strong backend focus with hands-on learning in **DevOps, Docker, AWS & system design**.  
+🎯 Actively looking for **Full Stack / Backend / MERN Developer roles**.
 
 ---
 
-## 🧑‍💼 Work Experience
+## 🧑‍💼 Experience
 
 ### 🏢 Full Stack Developer (Internship / Part-Time)  
 **STUDYBLOOM 24 LLP** — Kolkata  
 📅 *Feb 2024 – Present*
 
-- Developed and maintained **production-grade MERN applications**
-- Built **secure REST APIs** using Node.js & Express
-- Implemented **JWT authentication, role-based access control**
-- Worked with **MongoDB & SQL databases**
-- Deployed applications using **AWS & cloud services**
-- Collaborated with UI/UX & product teams to deliver features end-to-end
+- Built and maintained **MERN applications**
+- Designed **REST APIs using Node.js & Express**
+- Implemented **JWT authentication & RBAC**
+- Worked with **MongoDB & SQL**
+- Assisted in **AWS deployments & server setup**
+- Collaborated with designers & product teams
 
 ---
 
 ### 🌍 Freelance Full Stack Developer  
 **Upwork & Fiverr**
 
-- Delivered client projects using **MERN & React Native**
-- Built dashboards, admin panels, landing pages & APIs
-- Handled **deployment, bug fixing, and performance optimization**
-- Maintained clean code and clear client communication
+- Delivered MERN & React Native projects
+- Built admin panels, dashboards & APIs
+- Deployment, bug fixing & optimization
+- Maintained clean, scalable codebases
 
 ---
 
-## 🛠️ Tech Stack (MERN + DevOps Optimized)
+## 🛠️ Tech Stack
 
-### 🔹 Frontend
-- React.js, Next.js
-- HTML5, CSS3, Tailwind CSS, Bootstrap
-- JavaScript (ES6+), TypeScript
+### 🔹 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nodejs,express,html,css,tailwind,bootstrap" />
+</p>
 
-### 🔹 Backend
-- Node.js, Express.js
-- REST API Development
-- JWT Authentication, RBAC
-- Socket.IO (Real-time apps)
-
-### 🔹 Database
-- MongoDB
-- MySQL / PostgreSQL
-- Redis (Basics)
+### 🔹 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
 
 ### 🔹 DevOps & Cloud
-- Docker (Images, Containers – Learning)
-- AWS (EC2, S3, IAM – Basics)
-- Nginx
-- Linux
-- CI/CD (Beginner level)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux" />
+</p>
 
 ### 🔹 Tools
-- Git & GitHub
-- Postman
-- Firebase
-- Figma
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma" />
+</p>
 
 ---
 
-## 🚀 Major Projects (SEO Optimized)
+## 🚀 Projects
 
-### 🔹 **Relic Atlas**
-🌍 UK archaeology mapping platform with interactive geo-locations  
+### 🔹 Relic Atlas  
+🗺️ Archaeology mapping platform for UK historical sites  
 **Tech:** React, Node.js, Map APIs  
 🔗 https://relicatlas.co.uk
 
-### 🔹 **PulpitFill**
-📝 MERN-based content publishing platform with role-based access  
+### 🔹 PulpitFill  
+📝 MERN-based content publishing platform with RBAC  
 **Tech:** MERN, JWT, MongoDB  
 🔗 https://pulpitfill.com
 
-### 🔹 **Preplings**
-🧠 AI-powered language learning platform with real-time features  
+### 🔹 Preplings  
+🧠 AI-powered language learning platform  
 **Tech:** MERN, Socket.IO, AI APIs  
 🔗 https://preplings.com
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats (FIXED)
 
-🎓 **B.Tech – Computer Science & Engineering**  
-Future Institute of Engineering & Management, Kolkata  
-📊 CGPA: **7.5 / 10** (Till 7th Semester)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandipan-das-sd&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandipan-das-sd&theme=tokyonight&cache_seconds=86400" />
+</p>
 
-## 🏆 Achievements
-
-🏅 **Directrix – First Prize (Intra-College Hackathon)**  
-- Built a **Library Management System in C**
-
-🏅 **Smart India Hackathon (Inter-College)**  
-- Developed a **Bus Route Management System**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipan-das-sd&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🌐 Contact & Portfolio
 
 - 🌍 Portfolio: https://portfolio-psi-woad-12.vercel.app/
 - 💻 Projects: https://sandipandas.blog
-- 📫 Email: **sd901656@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/sandipan-das-13968b1b0
+- 📫 Email: **sd901656@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandipan-das-sd&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandipan-das-sd&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipan-das-sd&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-⭐ *Open to Full Stack / Backend / MERN opportunities — Let’s build something impactful!* ⭐
+⭐ **Open to Full Stack / MERN / Backend opportunities — Let’s build scalable systems together!** ⭐
