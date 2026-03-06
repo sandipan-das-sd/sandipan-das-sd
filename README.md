@@ -77,3 +77,4 @@ Features:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipan-das-sd&show_icons=true&locale=en" alt="sandipan-das-sd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipan-das-sd&" alt="sandipan-das-sd" /></p>
+\ce{CH4 + 2O2 -> CO2 + 2H2O}
