@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandipan Das</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+Creator of the npm package **latex-content-renderer** for rendering scientific content across platforms.
+![npm](https://img.shields.io/npm/v/latex-content-renderer)
+![downloads](https://img.shields.io/npm/dm/latex-content-renderer)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipan-das-sd&label=Profile%20views&color=0e75b6&style=flat" alt="sandipan-das-sd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/153122580?v=4" alt="sandipan-das-sd" /></a> </p>
