@@ -20,7 +20,7 @@ Creator of the npm package <b>latex-content-renderer</b> for rendering scientifi
 I am currently **open to Full Stack Developer / Backend Developer roles**.
 
 - 💻 2+ years (Freelancing + Contract Based NOT as a FUll Time) experience building scalable web applications
-- ⚙️ Expertise in **Node.js, Express, MongoDB, AWS**
+- ⚙️ Expertise in **Java Full Stack Development, Spring Boot, Java ,Node.js, Express, MongoDB,SQL,PSQL AWS,**
 - 📦 Experience building **production SaaS and EdTech platforms**
 - 🌍 Open to **Remote / Hybrid opportunities**
 
@@ -29,7 +29,7 @@ If you are hiring, feel free to reach out.
 📧 **dsandipan3002@gmail.com**
 
 
-- 🔭 I have worked on [Gyanoda](www.gyanoda.com)
+- 🔭 I have worked on [Gyanoda](www.gyanoda.com) as a  backend Developer
 - 🌱 I’m currently learning **SAP ABAP,Docker,Kubernetes,Jenkins**
 - 👨‍💻 All of my projects are available at [Github](Github)
 
@@ -58,7 +58,7 @@ Features:
 - 🌐 https://pulpitfill.com — Content platform
 
 
-- 💬 Ask me about **Node,Express,AWS**
+- 💬 Ask me about **Node,Express,AWS,Java,Spring Boot**
 - 📫 How to reach me **dsandipan3002@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cO-Xp0-qgMDvypL2h0gJaP7Qi4gjx9Aj/view?usp=sharing](https://drive.google.com/file/d/1cO-Xp0-qgMDvypL2h0gJaP7Qi4gjx9Aj/view?usp=sharing)
 - ⚡ Fun fact **I enjoy debugging complex backend issues more than writing UI 😄**
