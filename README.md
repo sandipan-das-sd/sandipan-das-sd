@@ -60,7 +60,7 @@ Features:
 
 - 💬 Ask me about **Node,Express,AWS,Java,Spring Boot**
 - 📫 How to reach me **dsandipan3002@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cO-Xp0-qgMDvypL2h0gJaP7Qi4gjx9Aj/view?usp=sharing](https://drive.google.com/file/d/1cO-Xp0-qgMDvypL2h0gJaP7Qi4gjx9Aj/view?usp=sharing)
+- 📄 Know about my experience: [View my resume](https://drive.google.com/file/d/1IUMaPlhvx6mVkKm1InfAoCS1lnid_eCw/view?usp=drive_link)
 - ⚡ Fun fact **I enjoy debugging complex backend issues more than writing UI 😄**
 
 <h3 align="left">Connect with me:</h3>
