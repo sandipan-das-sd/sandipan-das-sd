@@ -23,7 +23,8 @@ I am currently **open to Full Stack Developer / Backend Developer roles**.
 - ⚙️ Expertise in **Java Full Stack Development, Spring Boot, Java ,Node.js, Express, MongoDB,SQL,PSQL AWS,**
 - 📦 Experience building **production SaaS and EdTech platforms**
 - 🌍 Open to **Remote / Hybrid opportunities**
-
+- 🌐 Want the highlights? Visit my [portfolio](https://sandipandas.website).
+- 💻 Want the behind-the-scenes footage? Visit my [GitHub](https://github.com/sandipan-das-sd). I push code there all the time, so expect a few experiments and works in progress among the finished projects 😄
 If you are hiring, feel free to reach out.
 
 📧 **dsandipan3002@gmail.com**
