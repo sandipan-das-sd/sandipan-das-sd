@@ -20,7 +20,7 @@ Creator of the npm package <b>latex-content-renderer</b> for rendering scientifi
 I am currently **open to Full Stack Developer / Backend Developer roles**.
 
 - 💻 2+ years (Freelancing + Contract Based NOT as a FUll Time) experience building scalable web applications
-- ⚙️ Expertise in **Java Full Stack Development, Spring Boot, Java ,Node.js, Express, MongoDB,SQL,PSQL AWS,**
+- ⚙️ Expertise in **MERN Full Stack Development,  Java ,Node.js, Express, MongoDB,SQL,PSQL AWS,**
 - 📦 Experience building **production SaaS and EdTech platforms**
 - 🌍 Open to **Remote / Hybrid opportunities**
 - 🌐 Want the highlights? Visit my [portfolio](https://sandipandas.website).
