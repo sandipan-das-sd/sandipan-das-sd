@@ -59,7 +59,7 @@ Features:
 - 🌐 https://pulpitfill.com — Content platform
 
 
-- 💬 Ask me about **Node,Express,AWS,Java,Spring Boot**
+- 💬 Ask me about **Node,Express,AWS,React,Java**
 - 📫 How to reach me **dsandipan3002@gmail.com**
 - 📄 Know about my experience: [View my resume](https://drive.google.com/file/d/1IUMaPlhvx6mVkKm1InfAoCS1lnid_eCw/view?usp=drive_link)
 - ⚡ Fun fact **I enjoy debugging complex backend issues more than writing UI 😄**
